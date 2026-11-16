@@ -1,0 +1,7 @@
+/build/
+/.vs/
+/.vscode/
+compile_commands.json
+*.obj
+*.pdb
+*.exe
