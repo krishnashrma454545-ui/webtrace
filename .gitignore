@@ -5,3 +5,6 @@ compile_commands.json
 *.obj
 *.pdb
 *.exe
+/vendor/
+/.zed
+/.cache
